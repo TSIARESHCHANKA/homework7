@@ -1,3 +1,4 @@
+# домашка с пояснениями
 def myfunc():
     myfunc=(open('C:\\Users\\Я\Desktop\\pyton(1)\\111.txt'))
     nums=[]
@@ -22,4 +23,5 @@ print(len(m))
 print(len(t))
 print(k)
 d={'upper':len(m),'lower':len(t)-k}
+print(d)
 print(d)
